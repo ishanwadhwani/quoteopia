@@ -17,7 +17,6 @@ const Home = () => {
             That is why I built a platform where anyone can post, share, 
             and find the best quotes that inspire and motivate them.
         </p>
-
         <Feed/>
     </section>
   )
